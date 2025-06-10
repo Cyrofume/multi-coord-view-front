@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/multi-coord-view-front/static/css/main.d95ba5b9.css",
+    "main.js": "/multi-coord-view-front/static/js/main.d5a01838.js",
+    "static/js/453.9781fa59.chunk.js": "/multi-coord-view-front/static/js/453.9781fa59.chunk.js",
+    "index.html": "/multi-coord-view-front/index.html",
+    "main.d95ba5b9.css.map": "/multi-coord-view-front/static/css/main.d95ba5b9.css.map",
+    "main.d5a01838.js.map": "/multi-coord-view-front/static/js/main.d5a01838.js.map",
+    "453.9781fa59.chunk.js.map": "/multi-coord-view-front/static/js/453.9781fa59.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d95ba5b9.css",
+    "static/js/main.d5a01838.js"
+  ]
+}
